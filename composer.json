@@ -1,0 +1,8 @@
+{
+    "name": "linusshops/magento-payfort",
+    "type": "magento-module",
+    "homepage": "https://github.com/payfort/magento-payfort",
+    "extra":{
+        "package-xml": "package.xml"
+    }
+}
